@@ -3,7 +3,7 @@ import { Aside } from '@/components/aside/aside'
 import { Navbar } from '@/components/nav/navbar'
 
 export const metadata = {
-  title: 'Henrique Algauer',
+  title: 'Patryck Fragoso',
   description: 'Personal Web Site',
 }
 
